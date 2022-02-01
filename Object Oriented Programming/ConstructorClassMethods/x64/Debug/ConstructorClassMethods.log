@@ -1,0 +1,3 @@
+﻿  ConstructorClassMethods.cpp
+D:\C++\Applications\Object Oriented Programming\ConstructorClassMethods\ConstructorClassMethods.cpp(30,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConstructorClassMethods.vcxproj -> D:\C++\Applications\Object Oriented Programming\ConstructorClassMethods\x64\Debug\ConstructorClassMethods.exe

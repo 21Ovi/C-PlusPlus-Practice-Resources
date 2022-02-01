@@ -1,0 +1,3 @@
+﻿  functionsParameters.cpp
+D:\C++\Applications\functionsParameters\functionsParameters.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  functionsParameters.vcxproj -> D:\C++\Applications\functionsParameters\x64\Debug\functionsParameters.exe

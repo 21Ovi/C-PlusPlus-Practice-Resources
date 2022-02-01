@@ -1,0 +1,1 @@
+D:\C++\apps\Ternary(conditional)_Building_Guessing_Game\x64\Debug\Ternary(conditional)_Building_Guessing_Game.exe

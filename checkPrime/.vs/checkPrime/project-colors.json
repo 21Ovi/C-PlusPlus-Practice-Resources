@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0dfe0d33-4567-4167-887c-8aaded341cc5": {
+      "ProjectGuid": "0dfe0d33-4567-4167-887c-8aaded341cc5",
+      "DisplayName": "checkPrime",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

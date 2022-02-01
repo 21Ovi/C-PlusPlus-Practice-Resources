@@ -1,0 +1,3 @@
+﻿  functionReturn(checkPrime).cpp
+D:\C++\Applications\functionReturn(checkPrime)\functionReturn(checkPrime).cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  functionReturn(checkPrime).vcxproj -> D:\C++\Applications\functionReturn(checkPrime)\x64\Debug\functionReturn(checkPrime).exe

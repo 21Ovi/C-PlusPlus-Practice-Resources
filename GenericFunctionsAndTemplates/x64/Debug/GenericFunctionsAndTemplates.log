@@ -1,0 +1,3 @@
+﻿  GenericFunctionsAndTemplates.cpp
+D:\C++\Applications\GenericFunctionsAndTemplates\GenericFunctionsAndTemplates.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GenericFunctionsAndTemplates.vcxproj -> D:\C++\Applications\GenericFunctionsAndTemplates\x64\Debug\GenericFunctionsAndTemplates.exe

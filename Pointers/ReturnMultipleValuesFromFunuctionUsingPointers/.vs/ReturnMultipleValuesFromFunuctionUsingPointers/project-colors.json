@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0145dc15-8077-4618-b364-a011fbf69bba": {
+      "ProjectGuid": "0145dc15-8077-4618-b364-a011fbf69bba",
+      "DisplayName": "ReturnMultipleValuesFromFunuctionUsingPointers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,3 @@
+﻿  Polymorphisam.cpp
+D:\C++\Applications\Object Oriented Programming\Polymorphisam\Polymorphisam.cpp(70,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Polymorphisam.vcxproj -> D:\C++\Applications\Object Oriented Programming\Polymorphisam\x64\Debug\Polymorphisam.exe

@@ -1,0 +1,3 @@
+﻿  PointersIntroduction.cpp
+D:\C++\Applications\Pointers\PointersIntroduction\PointersIntroduction.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PointersIntroduction.vcxproj -> D:\C++\Applications\Pointers\PointersIntroduction\x64\Debug\PointersIntroduction.exe

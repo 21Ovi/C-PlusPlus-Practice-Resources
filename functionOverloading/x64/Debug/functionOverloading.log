@@ -1,0 +1,4 @@
+﻿  functionOverloading.cpp
+D:\C++\Applications\functionOverloading\functionOverloading.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\C++\Applications\functionOverloading\functionOverloading.cpp(12,27): warning C4305: 'argument': truncation from 'double' to 'float'
+  functionOverloading.vcxproj -> D:\C++\Applications\functionOverloading\x64\Debug\functionOverloading.exe

@@ -1,0 +1,1 @@
+D:\C++\Applications\Pointers\MultiDimentionalDynamicArrays\x64\Debug\MultiDimentionalDynamicArrays.exe

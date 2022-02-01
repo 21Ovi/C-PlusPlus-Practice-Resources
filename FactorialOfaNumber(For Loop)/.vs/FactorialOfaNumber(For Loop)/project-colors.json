@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "626ceaf0-3746-4740-ace3-55e3fc1c1375": {
+      "ProjectGuid": "626ceaf0-3746-4740-ace3-55e3fc1c1375",
+      "DisplayName": "FactorialOfaNumber(For Loop)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

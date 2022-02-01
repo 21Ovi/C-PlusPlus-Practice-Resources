@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BMI_Calculator_Application", "BMI_Calculator_Application.vcxproj", "{267CB786-032A-4506-8017-8666A47AB029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267CB786-032A-4506-8017-8666A47AB029}.Debug|x64.ActiveCfg = Debug|x64
+		{267CB786-032A-4506-8017-8666A47AB029}.Debug|x64.Build.0 = Debug|x64
+		{267CB786-032A-4506-8017-8666A47AB029}.Debug|x86.ActiveCfg = Debug|Win32
+		{267CB786-032A-4506-8017-8666A47AB029}.Debug|x86.Build.0 = Debug|Win32
+		{267CB786-032A-4506-8017-8666A47AB029}.Release|x64.ActiveCfg = Release|x64
+		{267CB786-032A-4506-8017-8666A47AB029}.Release|x64.Build.0 = Release|x64
+		{267CB786-032A-4506-8017-8666A47AB029}.Release|x86.ActiveCfg = Release|Win32
+		{267CB786-032A-4506-8017-8666A47AB029}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E605A2D2-50A2-4436-A6A4-B3A8320CC06D}
+	EndGlobalSection
+EndGlobal

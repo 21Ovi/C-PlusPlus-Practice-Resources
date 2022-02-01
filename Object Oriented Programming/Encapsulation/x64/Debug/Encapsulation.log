@@ -1,0 +1,3 @@
+﻿  Encapsulation.cpp
+D:\C++\Applications\Object Oriented Programming\Encapsulation\Encapsulation.cpp(40,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Encapsulation.vcxproj -> D:\C++\Applications\Object Oriented Programming\Encapsulation\x64\Debug\Encapsulation.exe

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dde9a3ba-3024-4c0e-a85c-19f708e1963b": {
+      "ProjectGuid": "dde9a3ba-3024-4c0e-a85c-19f708e1963b",
+      "DisplayName": "nestingLoops",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

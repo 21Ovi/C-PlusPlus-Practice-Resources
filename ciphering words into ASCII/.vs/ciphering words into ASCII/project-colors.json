@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "009a1543-55ec-486d-98fd-774909534e48": {
+      "ProjectGuid": "009a1543-55ec-486d-98fd-774909534e48",
+      "DisplayName": "ciphering words into ASCII",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
